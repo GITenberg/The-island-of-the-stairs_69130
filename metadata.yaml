@@ -1,0 +1,38 @@
+_repo: The-island-of-the-stairs_69130
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kinney, Troy
+    alias: Kinneys, The
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '25249'
+    url: http://www.gutenberg.org/2009/agents/25249
+    wikipedia: https://en.wikipedia.org/wiki/Troy_Kinney
+creator:
+  author:
+    agent_name: Brady, Cyrus Townsend
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '5591'
+    url: http://www.gutenberg.org/2009/agents/5591
+    wikipedia: https://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
+description: ''
+gutenberg_issued: '2022-10-11'
+identifiers:
+  gutenberg: '69130'
+language: en
+pgterms:marc904: https://archive.org/details/islandofstairs00bradiala/page/n7/mode/2up
+pgterms:marc905: 20201214091751brady
+pgterms:marc906: '1913'
+production_note: Emmanuel Ackerman, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: A. L. Burt Company, Publishers,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The island of the stairs
+url: http://www.gutenberg.org/ebooks/69130
