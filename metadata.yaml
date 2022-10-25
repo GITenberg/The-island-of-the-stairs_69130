@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '25249'
     url: http://www.gutenberg.org/2009/agents/25249
     wikipedia: https://en.wikipedia.org/wiki/Troy_Kinney
+covers:
+- cover_type: archival
+  image_path: 69130-h/images/cover.jpg
 creator:
   author:
     agent_name: Brady, Cyrus Townsend
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5591
     wikipedia: https://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69130#The-island-of-the-stairs
 gutenberg_issued: '2022-10-11'
 identifiers:
   gutenberg: '69130'
